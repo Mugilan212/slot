@@ -168,7 +168,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Alt text](image.png)
+![image](https://github.com/Mugilan212/slot/assets/144508901/3bc62504-bb88-49bf-b5d8-f4be177c881b)
+
 
 
 ## RESULT
